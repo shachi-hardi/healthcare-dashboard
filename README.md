@@ -45,6 +45,10 @@ Examples of DAX used in this dashboard include:
 
 ---
 
+**Dashboard Overview**  
+![Dashboard Overview](dashboard.png)
+
+
 ## **Files in This Repository**
 - **healthcare_dashboard.pbix** — Power BI report file  
 - **Hospital ER_Data** — dataset  
